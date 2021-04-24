@@ -1,0 +1,1122 @@
+{
+"only_data_example_ship": [
+        {
+          "unit": null,
+          "values": [
+            0
+          ],
+          "data_type": "boolean",
+          "symbol": "advanced_hull_paint_coating",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "annual_hull_cleaning",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            0
+          ],
+          "data_type": "boolean",
+          "symbol": "annual_propeller_polishing",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            23.34
+          ],
+          "data_type": "float",
+          "symbol": "attained_eedi_value",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            0
+          ],
+          "data_type": "boolean",
+          "symbol": "auxillary_system_optimization",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "ballast_water_reduction",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "biofuels",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            0
+          ],
+          "data_type": "boolean",
+          "symbol": "cold_ironing",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "contra_rotating_propeller",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "NOK",
+          "values": [
+            2000000
+          ],
+          "data_type": "float",
+          "symbol": "debt_outstanding",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "t",
+          "values": [
+            6000
+          ],
+          "data_type": "float",
+          "symbol": "design_deadweight_tonnage",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "g",
+          "values": [
+            0
+          ],
+          "data_type": "float",
+          "symbol": "direct_tailpipe_co2_emissions",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "nautical_miles",
+          "values": [
+            40000
+          ],
+          "data_type": "float",
+          "symbol": "distance_travelled",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "g",
+          "values": [
+            7000000000
+          ],
+          "data_type": "float",
+          "symbol": "eedi_estimated_carbon_emissions",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "t*nautical_miles",
+          "values": [
+            300000000
+          ],
+          "data_type": "float",
+          "symbol": "eedi_estimated_transport_work",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            0
+          ],
+          "data_type": "boolean",
+          "symbol": "electronic_automatic_tuning",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            0
+          ],
+          "data_type": "float",
+          "symbol": "emission_reduction_factor",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "g/tkm",
+          "values": [
+            56.5
+          ],
+          "data_type": "float",
+          "symbol": "emission_reference_line_value",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "engine_de_rating",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            3
+          ],
+          "data_type": "float",
+          "symbol": "existing_vessel_design_index",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "g",
+          "values": [
+            0
+          ],
+          "data_type": "float",
+          "symbol": "fuel_consumption_HFO",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "g",
+          "values": [
+            0
+          ],
+          "data_type": "float",
+          "symbol": "fuel_consumption_LNG",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "g",
+          "values": [
+            0
+          ],
+          "data_type": "float",
+          "symbol": "fuel_consumption_LSFO",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "t",
+          "values": [
+            1500
+          ],
+          "data_type": "float",
+          "symbol": "fuel_consumption_MGO",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "green_ports_prioritized_route_planning",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "h",
+          "values": [
+            1200
+          ],
+          "data_type": "float",
+          "symbol": "hours_underway",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "hull_air_lubricant",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "hybrid_electric_auxiliary_power_generation",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "hybrid_electricity_auxiliary_power_and_propulsion",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "hybrid_vessel",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "is_not_dedicated_to_transport_of_fossil_fuels",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "is_rightship_verified",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "kite_sails_wings",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "lightweight_construction_material",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "lng_fuel",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "knots",
+          "values": [
+            12
+          ],
+          "data_type": "float",
+          "symbol": "max_speed",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "t",
+          "values": [
+            0
+          ],
+          "data_type": "float",
+          "symbol": "non_co2_fuel_mass_used_for_normal_operation",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "optimized_maintenance_procedures",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "optimizing_heat_exchangers",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "kWh",
+          "values": [
+            30000
+          ],
+          "data_type": "float",
+          "symbol": "plug_in_power_used_for_normal_operation",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "propeller_hull_rudder_interface_optimized",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "propulsion_enhancing_devices",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            "B+"
+          ],
+          "data_type": "string",
+          "symbol": "rightship_score",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            "bulk_carrier_mini"
+          ],
+          "data_type": "string",
+          "symbol": "ship_type",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "smart_or_slow_steaming",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "solar_panels",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            0
+          ],
+          "data_type": "boolean",
+          "symbol": "speed_management_chapter_seemp",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "t",
+          "values": [
+            13000
+          ],
+          "data_type": "float",
+          "symbol": "total_cargo_volume",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "t",
+          "values": [
+            1500
+          ],
+          "data_type": "float",
+          "symbol": "total_fuel_mass_used_for_normal_operation",
+          "dataset_data_id": null
+        },
+        {
+          "unit": "kWh",
+          "values": [
+            50000
+          ],
+          "data_type": "float",
+          "symbol": "total_power_used_for_normal_operation",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "trim_and_draft_optimization",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "used_exclusively_for_provision_of_coastal_services_designed_to_enable_modal_shift_of_freight_currently_transported_by_land_to_sea",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            0
+          ],
+          "data_type": "boolean",
+          "symbol": "variable_speed_electric_power_generation",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            1
+          ],
+          "data_type": "boolean",
+          "symbol": "waste_heat_recovery_system",
+          "dataset_data_id": null
+        },
+        {
+          "unit": null,
+          "values": [
+            0
+          ],
+          "data_type": "boolean",
+          "symbol": "weather_routing",
+          "dataset_data_id": null
+        }
+      ],
+"dataset_example_ship": { 
+  "compatible_entities": [
+    3
+  ],
+  "inherits": [],
+  "import_references": [],
+  "export_references": [],
+  "data": [
+    {
+      "unit": null,
+      "values": [
+        0
+      ],
+      "data_type": "boolean",
+      "symbol": "advanced_hull_paint_coating",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "annual_hull_cleaning",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        0
+      ],
+      "data_type": "boolean",
+      "symbol": "annual_propeller_polishing",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        23.34
+      ],
+      "data_type": "float",
+      "symbol": "attained_eedi_value",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        0
+      ],
+      "data_type": "boolean",
+      "symbol": "auxillary_system_optimization",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "ballast_water_reduction",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "biofuels",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        0
+      ],
+      "data_type": "boolean",
+      "symbol": "cold_ironing",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "contra_rotating_propeller",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "NOK",
+      "values": [
+        2000000
+      ],
+      "data_type": "float",
+      "symbol": "debt_outstanding",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "t",
+      "values": [
+        6000
+      ],
+      "data_type": "float",
+      "symbol": "design_deadweight_tonnage",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "g",
+      "values": [
+        0
+      ],
+      "data_type": "float",
+      "symbol": "direct_tailpipe_co2_emissions",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "nautical_miles",
+      "values": [
+        40000
+      ],
+      "data_type": "float",
+      "symbol": "distance_travelled",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "g",
+      "values": [
+        7000000000
+      ],
+      "data_type": "float",
+      "symbol": "eedi_estimated_carbon_emissions",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "t*nautical_miles",
+      "values": [
+        300000000
+      ],
+      "data_type": "float",
+      "symbol": "eedi_estimated_transport_work",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        0
+      ],
+      "data_type": "boolean",
+      "symbol": "electronic_automatic_tuning",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        0
+      ],
+      "data_type": "float",
+      "symbol": "emission_reduction_factor",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "g/tkm",
+      "values": [
+        56.5
+      ],
+      "data_type": "float",
+      "symbol": "emission_reference_line_value",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "engine_de_rating",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        3
+      ],
+      "data_type": "float",
+      "symbol": "existing_vessel_design_index",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "g",
+      "values": [
+        0
+      ],
+      "data_type": "float",
+      "symbol": "fuel_consumption_HFO",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "g",
+      "values": [
+        0
+      ],
+      "data_type": "float",
+      "symbol": "fuel_consumption_LNG",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "g",
+      "values": [
+        0
+      ],
+      "data_type": "float",
+      "symbol": "fuel_consumption_LSFO",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "t",
+      "values": [
+        1500
+      ],
+      "data_type": "float",
+      "symbol": "fuel_consumption_MGO",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "green_ports_prioritized_route_planning",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "h",
+      "values": [
+        1200
+      ],
+      "data_type": "float",
+      "symbol": "hours_underway",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "hull_air_lubricant",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "hybrid_electric_auxiliary_power_generation",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "hybrid_electricity_auxiliary_power_and_propulsion",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "hybrid_vessel",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "is_not_dedicated_to_transport_of_fossil_fuels",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "is_rightship_verified",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "kite_sails_wings",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "lightweight_construction_material",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "lng_fuel",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "knots",
+      "values": [
+        12
+      ],
+      "data_type": "float",
+      "symbol": "max_speed",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "t",
+      "values": [
+        0
+      ],
+      "data_type": "float",
+      "symbol": "non_co2_fuel_mass_used_for_normal_operation",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "optimized_maintenance_procedures",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "optimizing_heat_exchangers",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "kWh",
+      "values": [
+        30000
+      ],
+      "data_type": "float",
+      "symbol": "plug_in_power_used_for_normal_operation",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "propeller_hull_rudder_interface_optimized",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "propulsion_enhancing_devices",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        "B+"
+      ],
+      "data_type": "string",
+      "symbol": "rightship_score",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        "bulk_carrier_mini"
+      ],
+      "data_type": "string",
+      "symbol": "ship_type",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "smart_or_slow_steaming",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "solar_panels",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        0
+      ],
+      "data_type": "boolean",
+      "symbol": "speed_management_chapter_seemp",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "t",
+      "values": [
+        13000
+      ],
+      "data_type": "float",
+      "symbol": "total_cargo_volume",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "t",
+      "values": [
+        1500
+      ],
+      "data_type": "float",
+      "symbol": "total_fuel_mass_used_for_normal_operation",
+      "dataset_data_id": null
+    },
+    {
+      "unit": "kWh",
+      "values": [
+        50000
+      ],
+      "data_type": "float",
+      "symbol": "total_power_used_for_normal_operation",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "trim_and_draft_optimization",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "used_exclusively_for_provision_of_coastal_services_designed_to_enable_modal_shift_of_freight_currently_transported_by_land_to_sea",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        0
+      ],
+      "data_type": "boolean",
+      "symbol": "variable_speed_electric_power_generation",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        1
+      ],
+      "data_type": "boolean",
+      "symbol": "waste_heat_recovery_system",
+      "dataset_data_id": null
+    },
+    {
+      "unit": null,
+      "values": [
+        0
+      ],
+      "data_type": "boolean",
+      "symbol": "weather_routing",
+      "dataset_data_id": null
+    }
+  ],
+  "name": "Example_Ship",
+  "dataset_id": 1,
+  "date_added": "2021-04-05 11:00:08",
+  "last_changed": "2021-04-05 11:00:08"
+},
+  "example_output_1": {
+    "flag_indicators": {
+      "Indikator_1": [
+          {
+              "entity": "Entitet_1",
+              "value": 1,
+              "unit": "dimensionless",
+              "data_type": "boolean",
+              "datasets": [
+                  "Company1_Wind_Activity",
+                  "EU_Tax_Threshold"
+              ]
+          },
+          {
+              "entity": "Entitet_2",
+              "value": 0,
+              "unit": "dimensionless",
+              "data_type": "boolean",
+              "datasets": [
+                  "Company2_Wind_Activity",
+                  "EU_Tax_Threshold"
+              ]
+          }
+      ],
+      "Indikator2": [
+          {
+              "entity": "Entitet_3",
+              "value": 1,
+              "unit": "dimensionless",
+              "data_type": "boolean",
+              "datasets": [
+                  "Company3_Wind_Activity",
+                  "EU_Tax_Threshold"
+              ]
+          }
+      ],
+      "Indikator_3": [
+          {
+              "entity": "Entitet_2",
+              "value": 1,
+              "unit": "dimensionless",
+              "data_type": "boolean",
+              "datasets": [
+                  "Company3_Wind_Activity",
+                  "EU_Tax_Threshold"
+              ]
+          },
+          {
+              "entity": "Entitet3",
+              "value": 1,
+              "unit": "dimensionless",
+              "data_type": "boolean",
+              "datasets": [
+                  "Company2_Wind_Activity",
+                  "EU_Tax_Threshold"
+              ]
+          }
+      ]
+  },
+  "standard_indicators": {
+      "Indikator10": {
+          "value": 0,
+          "unit": "dimensionless",
+          "data_type": "boolean"
+      },
+      "Indikator_11": {
+          "value": 101,
+          "unit": "kilogram",
+          "data_type": "float"
+      },
+      "Indikator12": {
+          "value": 200,
+          "unit": "volt",
+          "data_type": "float"
+      },
+      "Indikator_13": {
+          "value": 200,
+          "unit": "kilogram",
+          "data_type": "float"
+      },
+      "Indikator14": {
+          "value": 20,
+          "unit": "volt",
+          "data_type": "float"
+      }
+  },
+  "local_indicators": {
+      "Indikator_20": {
+          "value": 5,
+          "unit": "kilogram",
+          "data_type": "float"
+      },
+      "Indikator21": {
+          "value": 10,
+          "unit": "ampere",
+          "data_type": "float"
+      },
+      "Indikator22": {
+          "value": 5,
+          "unit": "volt",
+          "data_type": "float"
+      },
+      "Indikator23": {
+          "value": 100,
+          "unit": "ampere",
+          "data_type": "float"
+      }
+  },
+  "meta_data": {
+      "entity_under_analysis": "",
+      "eua_datasets": [],
+      "warnings": []
+  }
+}
+}
