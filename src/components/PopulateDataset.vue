@@ -1,6 +1,6 @@
 <template>
     <div v-if="hasSelectedTemplate">
-        <p>Populate dataset</p>
+        <p>Populate dataset:</p>
         <div v-bind:key="data" v-for="data in template" class="container">
             <Data :data="data" />
         </div>
