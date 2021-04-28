@@ -1,9 +1,11 @@
 <template>
     <div v-if="hasSelectedTemplate">
         <p>Populate dataset:</p>
-        <div v-bind:key="data" v-for="data in template" class="container">
-            <Data :data="data" />
-        </div>
+            <transition-group name="fade" mode="out-in" tag="span">
+            <div v-bind:key="data" v-for="data in template" class="container">
+                <Data :data="data" class="data" />
+            </div>
+            </transition-group>
         <button value="Submit to Platform" @click="$emit('data-submitted')" > Save to Platform</button>
     </div>
 </template>
@@ -25,14 +27,49 @@ export default {
 
 <style scoped>
 .container {
-    display: grid;
-    grid-template-columns: [name] 40vw [value] 10vw [unit] 10vw [data_type] 10vw;
-    padding-left: 10vw;
-    overflow: hidden;
-    grid-column-gap: 30px;
-    grid-row-gap: 30px;
+    text-align: left;
+    display: flex;
+    margin-left: 20vw;
+    width: 60vw;
+    background: #444;
 }
+
+.data {
+    padding: 10px;
+    width: 100%;
+    border: 1px white solid;
+}
+
 button {
     margin: 4vh;
+}
+
+/* .fade-enter-active, .fade-leave-active {
+  transition: all .2s;
+}
+.fade-enter, .fade-leave-to{
+  opacity: 0;
+}
+.fade-enter-active {
+  transition-delay: .2s;
+} */
+
+/* router transitions  */
+.fade-enter-from {
+  opacity: 0;
+  transform: translateX(100px);
+}
+
+.fade-enter-active {
+  transition: all 0.3s ease-out;
+}
+
+.fade-leave-to {
+  opacity: 0;
+  transform: translate(-100px);
+}
+
+.fade-leave-active {
+  transition: all 0.3s ease-in;
 }
 </style>

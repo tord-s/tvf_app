@@ -29,8 +29,7 @@ export default {
         },
         updateDataset(event) {
             this.dataset_template = event.target.value
-            this.getTemplate()
-            
+            this.getTemplate() 
         }
     }
 }

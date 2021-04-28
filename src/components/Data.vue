@@ -1,8 +1,10 @@
 <template>
-    <div>{{data.symbol}}</div>
-    <input type="text" v-model="data.values">
-    <div>{{data.unit}}</div>
-    <div>{{data.data_type}}</div>
+    <span>
+        {{data.symbol}}
+        <input type="text" v-model="data.values" size="10">
+        {{data.unit}}
+        {{data.data_type}}
+    </span>
 </template>
 
 <script>
@@ -18,16 +20,20 @@ export default {
             unit: String,
             data_type: String,
         }
+    },
+    methods: {
+        lengthValues() {
+            return this.values.length
+        }
     }
 }
 </script>
 
 <style scoped>
-div {
-        padding: 10px;
-        overflow: hidden;
-        white-space: nowrap;
-        max-width: 50vw;
+input {
+        padding: 5px;
+        box-sizing: content-box;
         border: 1px #c8fc9c solid;
 }
+
 </style>

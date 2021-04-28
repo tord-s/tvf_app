@@ -1,6 +1,10 @@
 <template>
   <Header/>
-  <router-view/>
+   <router-view v-slot="{ Component }">
+    <transition name="route" mode="out-in">
+      <component :is="Component"></component>
+    </transition>
+  </router-view>
   <Footer/>
 </template>
 
@@ -28,6 +32,7 @@ export default {
 
 a {
   color: #c8fc9c;
+  text-decoration: none;
 }
 
 html, body {
@@ -39,7 +44,7 @@ input {
   color: #c8fc9c;
   background: black;
   border: 1px #c8fc9c solid;
-  text-align: center;
+  text-align: left;
 }
 
 button {
@@ -47,5 +52,28 @@ button {
   color: black;
   padding: 10px;
   border-radius: 20px;
+}
+
+a:hover,
+a.router-link-active {
+  border-bottom: #c8fc9c solid 2px;
+}
+
+
+/* router transitions  */
+.route-enter-from {
+  opacity: 0;
+}
+
+.route-enter-active {
+  transition: all 0.3s ease;
+}
+
+.route-leave-to {
+  opacity: 0;
+}
+
+.route-leave-active {
+  transition: all 0.3s ease-in;
 }
 </style>
