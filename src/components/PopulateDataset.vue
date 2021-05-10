@@ -1,7 +1,7 @@
 <template>
     <div v-if="hasSelectedTemplate">
         <p>Populate dataset:</p>
-            <transition-group name="fade" mode="out-in" tag="span">
+            <transition-group name="route" mode="out-in" tag="span">
             <div v-bind:key="data" v-for="data in template" class="container">
                 <Data :data="data" class="data" />
             </div>
@@ -53,6 +53,23 @@ button {
 .fade-enter-active {
   transition-delay: .2s;
 } */
+
+.route-enter-from {
+  opacity: 0;
+}
+
+.route-enter-active {
+  transition: opacity 0.2s ease-in;
+   transition-delay: .2s;
+}
+
+.route-leave-to {
+  opacity: 0;
+}
+
+.route-leave-active {
+  transition: opacity 0.2s ease-out;
+}
 
 /* router transitions  */
 .fade-enter-from {
